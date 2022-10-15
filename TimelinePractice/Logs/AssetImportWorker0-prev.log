@@ -1,0 +1,130 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.978; Version 2009; 64bit' Language: 'ko' Physical Memory: 3929 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/hepachupa/Documents/UnityProjects/TimelinePractice/TimelinePractice
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56116
+Successfully changed project path to: C:/Users/hepachupa/Documents/UnityProjects/TimelinePractice/TimelinePractice
+C:/Users/hepachupa/Documents/UnityProjects/TimelinePractice/TimelinePractice
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/hepachupa/Documents/UnityProjects/TimelinePractice/TimelinePractice/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     1964 MB
+    Driver:   30.0.101.1340
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006462 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.767 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003288 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.414 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.7 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 4.366800 ms (FindLiveObjects: 0.439600 ms CreateObjectMapping: 0.170200 ms MarkObjects: 3.588500 ms  DeleteObjects: 0.165600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Track  5.mp3
+  artifactKey: Guid(1534c58d5e74a87448048b2801512f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Track  5.mp3 using Guid(1534c58d5e74a87448048b2801512f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'debdf161d6bbbcfc6bea711c3b7904ce') in 0.354678 seconds
+  Import took 0.357649 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 27.778100 ms (FindLiveObjects: 6.460600 ms CreateObjectMapping: 0.176100 ms MarkObjects: 20.419800 ms  DeleteObjects: 0.717400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1665.306158 seconds.
+  path: Assets/GameObjectTimeline.playable
+  artifactKey: Guid(06f6d2215e12e144480c082a4f018148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameObjectTimeline.playable using Guid(06f6d2215e12e144480c082a4f018148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97102d8e9d8be337ba1a6cfd522b43d') in 0.314157 seconds
+  Import took 0.535755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002472 seconds.
+  path: Assets/GameObjectTimeline.playable
+  artifactKey: Guid(06f6d2215e12e144480c082a4f018148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameObjectTimeline.playable using Guid(06f6d2215e12e144480c082a4f018148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97102d8e9d8be337ba1a6cfd522b43d') in 0.006181 seconds
+  Import took 0.010781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.583665 seconds.
+  path: Assets/GameObjectTimeline.playable
+  artifactKey: Guid(06f6d2215e12e144480c082a4f018148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameObjectTimeline.playable using Guid(06f6d2215e12e144480c082a4f018148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec2459123f99b65f5b89dc5c39b1af4') in 0.211078 seconds
+  Import took 0.264275 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
